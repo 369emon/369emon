@@ -1,56 +1,32 @@
-```md
-[![MasterHead](https://github.com/369emon/369emon/blob/main/banner.jpg)](https://github.com/369emon)
+<div style="background: #000; color: #00ffea; font-family: 'Courier New', monospace; text-align: center; padding: 20px;">
+    <h1 style="font-size: 2.5rem; color: #00ff00; text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;">
+        🔐 369emon | Cyber Sentinel
+    </h1>
 
-<h1 align="center" class="hacker-title">🔐 Welcome to 369emon’s Cyber Fortress</h1>
-<h3 align="center">Fortifying the future with Cybersecurity & IoT innovations.</h3>
+    <p>Welcome to my digital stronghold! I’m a cybersecurity enthusiast and IoT innovator, crafting code to secure the future with a hacker's edge.</p>
 
-```plaintext
-███╗░░░███╗░█████╗░███████╗███╗░░░███╗
-████╗░████║██╔══██╗██╔════╝████╗░████║
-██╔████╔██║██║░░██║█████╗░░██╔████╔██║
-██║╚██╔╝██║██║░░██║██╔══╝░░██║╚██╔╝██║
-██║░╚═╝░██║╚█████╔╝███████╗██║░╚═╝░██║
-╚═╝░░░░░╚═╝░╚════╝░╚══════╝╚═╝░░░░░╚═╝
-```
+    <div style="font-size: 1rem; color: #00ff00; white-space: pre-wrap; overflow: hidden; height: 100px; margin: 10px 0; line-height: 1.5;">
+        010101 110010 101010 001110<br>101010 111000 010101 100101<br>110011 101101 010010 111000
+    </div>
 
----
+    <div style="width: 50px; height: 50px; border-radius: 50%; background: #ff007f; box-shadow: 0 0 15px #ff007f; margin: 10px auto;"></div>
+    <p style="margin: 10px 0;">🛡️ Threat Monitor Active</p>
 
-## 🛡️ **Threat Monitor Active**  
-🔥 **System Secure | Monitoring Threats** 🔍  
+    <div>
+        <h2 style="margin: 20px 0;">🔥 Featured Projects</h2>
+        <div style="background: #1a1a1a; border-radius: 5px; box-shadow: 0 0 10px #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
+            <h3 style="margin: 5px 0;">🛡️ <a href="https://github.com/369emon/CyberShield" style="color: #00ffea; text-decoration: none;">CyberShield</a></h3>
+            <p style="margin: 5px 0;">Advanced penetration testing framework.</p>
+        </div>
+        <div style="background: #1a1a1a; border-radius: 5px; box-shadow: 0 0 10px #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
+            <h3 style="margin: 5px 0;">📡 <a href="https://github.com/369emon/IoT-Sentinel" style="color: #00ffea; text-decoration: none;">IoT Sentinel</a></h3>
+            <p style="margin: 5px 0;">Security-enhanced IoT monitoring system.</p>
+        </div>
+        <div style="background: #1a1a1a; border-radius: 5px; box-shadow: 0 0 10px #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
+            <h3 style="margin: 5px 0;">💀 <a href="https://github.com/369emon/ThreatMatrix" style="color: #00ffea; text-decoration: none;">ThreatMatrix</a></h3>
+            <p style="margin: 5px 0;">AI-driven threat detection platform.</p>
+        </div>
+    </div>
 
-```plaintext
-01010100 01101000 01101001 01110011 00100000 01101001 01110011  
-01000011 01111001 01100010 01100101 01110010 01110011 01100101 01100011  
-01001001 01101110 01101110 01101111 01110110 01100001 01110100 01101111 01110010  
-```
-
----
-
-## 🔥 **Featured Projects**  
-🔹 **[CyberShield](https://github.com/369emon/CyberShield)** – Advanced penetration testing framework  
-🔹 **[IoT Sentinel](https://github.com/369emon/IoT-Sentinel)** – Security-enhanced IoT monitoring system  
-🔹 **[ThreatMatrix](https://github.com/369emon/ThreatMatrix)** – AI-driven threat detection platform  
-
----
-
-## ⚡ **GitHub Stats**  
-![369emon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=369emon&show_icons=true&theme=dark)  
-
----
-
-## 💾 **Cyber Fortress Matrix Code Effect**  
-```plaintext
-01010110 01101001 01110010 01110101 01110011  
-Cybersecurity & Ethical Hacking | Penetration Testing  
-01001000 01100001 01100011 01101011 01101001 01101110 01100111  
-```
-
----
-
-## 💬 **Let’s Connect!**  
-💻 **Portfolio:** [369emon.github.io](https://369emon.github.io/)  
-🐦 **Twitter:** [@369emon](#)  
-🎮 **Discord:** 369emon#1234  
-☕ **Support:** [Buy me a coffee](#)  
-
----
+    <p style="font-style: italic; margin-top: 20px;">Accessing 369emon’s Cyber Fortress... Stay secure!</p>
+</div>
