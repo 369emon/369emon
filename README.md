@@ -1,36 +1,30 @@
-<div style="background: #000; color: #00ffea; font-family: 'Courier New', monospace; text-align: center; padding: 20px; overflow: hidden;">
-  <div style="position: relative; min-height: 150px;">
-    <pre style="font-size: 1em; color: #00ff00; margin: 10px 0; white-space: pre-wrap;">
-██████╗███╗   ███╗ ██████╗ ███╗   ██╗
-██╔════╝████╗ ████║██╔═══██╗████╗  ██║
-█████╗  ██╔████╔██║██║   ██║██╔██╗ ██║
-██╔══╝  ██║╚██╔╝██║██║   ██║██║╚██╗██║
-███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
-╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+<pre align="centre">
 
-   ▒▓▒▒▒▓▒▒▒▒▓▒▒ 369 Emon ▒▒▒▓▒▒▒▒▓▒▒▒▓▒
-    </pre>
-    <div id="terminal" style="font-size: 1.2em; color: #00ffea; white-space: pre-wrap; animation: typing 5s steps(50, end) infinite, blink 0.5s step-end infinite;">
-      Initializing Terminal...
-      User: 369Emon
-      Status: Cyber Sentinel Active
-      Mode: Recon & Security Ops
-    </div>
-  </div>
-  <style>
-    @keyframes typing {
-      0% { width: 0; }
-      20% { width: 0; }
-      100% { width: 100%; }
-    }
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
-    #terminal::after {
-      content: '|';
-      animation: blink 0.5s step-end infinite;
-    }
-  </style>
+
+     
+   ▄████████   ▄▄▄▄███▄▄▄▄    ▄██████▄  ███▄▄▄▄   
+  ███    ███ ▄██▀▀▀███▀▀▀██▄ ███    ███ ███▀▀▀██▄ 
+  ███    █▀  ███   ███   ███ ███    ███ ███   ███ 
+ ▄███▄▄▄     ███   ███   ███ ███    ███ ███   ███ 
+▀▀███▀▀▀     ███   ███   ███ ███    ███ ███   ███ 
+  ███    █▄  ███   ███   ███ ███    ███ ███   ███ 
+  ███    ███ ███   ███   ███ ███    ███ ███   ███ 
+  ██████████  ▀█   ███   █▀   ▀██████▀   ▀█   █▀
+
+    ▒▓▒▒▒▓▒▒▒▒▓▒▒ 369 Emon ▒▒▒▓▒▒▒▒▓▒▒▒▓▒
+</pre>
+
+
+
+  
+  
+ <div align="left"> 
+ <li> User: 369Emon</li>
+ <li> Status: Cyber Sentinel Active</li>
+ <li> Mode: Recon & Security Ops</li>
+ </div>
+  
+ 
   <pre style="font-size: 1em; color: #00ff00; white-space: pre-wrap; overflow: hidden; height: 100px; margin: 10px 0;">
 010101 110010 101010 001110
 101010 111000 010101 100101
