@@ -1,50 +1,140 @@
-<pre align="centre">
+<div align="center">
 
+<!-- ═══════════ ANIMATED MATRIX HEADER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00FF00,100:0080FF&height=250&section=header&text=369Emon&fontSize=90&animation=blink&fontColor=fff&fontAlignY=38&desc=Consulting%20Deductive%20Analyst&descAlignY=62&descSize=20" width="100%"/>
 
-     
-   ▄████████   ▄▄▄▄███▄▄▄▄    ▄██████▄  ███▄▄▄▄   
-  ███    ███ ▄██▀▀▀███▀▀▀██▄ ███    ███ ███▀▀▀██▄ 
-  ███    █▀  ███   ███   ███ ███    ███ ███   ███ 
- ▄███▄▄▄     ███   ███   ███ ███    ███ ███   ███ 
-▀▀███▀▀▀     ███   ███   ███ ███    ███ ███   ███ 
-  ███    █▄  ███   ███   ███ ███    ███ ███   ███ 
-  ███    ███ ███   ███   ███ ███    ███ ███   ███ 
-  ██████████  ▀█   ███   █▀   ▀██████▀   ▀█   █▀
+<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+<a href="https://github.com/369emon">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=100&lines=System+Online...;Initializing+Neural+Protocols...;Deductive+Analysis+Engine+Active;Recon+%26+Security+Ops+Running;Welcome+to+my+Digital+Fortress" alt="Typing SVG" />
+</a>
 
-    ▒▓▒▒▒▓▒▒▒▒▓▒▒ 369 Emon ▒▒▒▓▒▒▒▒▓▒▒▒▓▒
-</pre>
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<img src="https://github.com/369emon/369emon/blob/main/assets/divider.gif" onerror="this.src='https://capsule-render.vercel.app/api?type=venom&height=3&color=gradient&customColorList=0,10,20,30'" width="100%"/>
 
+</div>
 
+---
 
-  
-  
- <div align="left"> 
- <li> User: 369Emon</li>
- <li> Status: Cyber Sentinel Active</li>
- <li> Mode: Recon & Security Ops</li>
- </div>
-  
- 
-  <pre style="font-size: 1em; color: #00ff00; white-space: pre-wrap; overflow: hidden; height: 100px; margin: 10px 0;">
-010101 110010 101010 001110
-101010 111000 010101 100101
-110011 101101 010010 111000
-  </pre>
-  <div style="width: 50px; height: 50px; border-radius: 50%; background: #ff007f; border: 2px solid #ff007f; margin: 10px auto;"></div>
-  <p style="color: #00ffea; margin: 10px 0;">🛡️ Threat Monitor Active</p>
-  <h2 style="color: #00ffea; margin: 20px 0;">🔥 Featured Projects</h2>
-  <div style="background: #1a1a1a; border: 2px solid #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
-    <h3 style="color: #00ffea; margin: 5px 0;">🛡️ <a href="https://github.com/369emon/CyberShield" style="color: #00ffea; text-decoration: none;">CyberShield</a></h3>
-    <p style="color: #00ffea; margin: 5px 0;">Advanced penetration testing framework.</p>
-  </div>
-  <div style="background: #1a1a1a; border: 2px solid #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
-    <h3 style="color: #00ffea; margin: 5px 0;">📡 <a href="https://github.com/369emon/IoT-Sentinel" style="color: #00ffea; text-decoration: none;">IoT Sentinel</a></h3>
-    <p style="color: #00ffea; margin: 5px 0;">Security-enhanced IoT monitoring system.</p>
-  </div>
-  <div style="background: #1a1a1a; border: 2px solid #00ffea; padding: 10px; margin: 10px auto; max-width: 300px;">
-    <h3 style="color: #00ffea; margin: 5px 0;">💀 <a href="https://github.com/369emon/ThreatMatrix" style="color: #00ffea; text-decoration: none;">ThreatMatrix</a></h3>
-    <p style="color: #00ffea; margin: 5px 0;">AI-driven threat detection platform.</p>
-  </div>
-  <p style="color: #00ffea; font-style: italic; margin-top: 20px;">Stay secure!</p>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a herf="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <a herf="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="docker" width="40" height="40"/>   <a herf="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="docker" width="40" height="40"/>  <a herf="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="docker" width="40" height="40"/> <a herf="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="docker" width="40" height="40"/> <a herf="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="docker" width="40" height="40"/> <a herf="https://www.redhat.com/en/ansible" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="docker" width="40" height="40"/> <a herf="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="docker" width="40" height="40"/> <a herf="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="docker" width="40" height="40"/> <a herf="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="docker" width="40" height="40"/> <a herf="https://www.rust.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </p>
+### 🧠 ⌬ Consulting Deductive Analyst
+
+```bash
+┌──[369emon@cybersentinel]─[~/identity]
+└──╼ $ cat profile.json
+{
+  "name": "369Emon",
+  "role": "Consulting Deductive Analyst",
+  "specialization": ["Penetration Testing", "IoT Security", "AI Threat Detection"],
+  "status": "🟢 Active",
+  "location": "Digital Realm",
+  "current_focus": "Advanced Exploit Development & Cloud Security"
+}
+```
+
+---
+
+<div align="center">
+
+### 🛡️ ⌬ Arsenal & Tech Stack
+
+</div>
+
+#### ▸ Languages & Core
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>
+</p>
+#### ▸ DevOps & Cloud Infrastructure
+<p align="left">
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/></a>
+  <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/></a>
+  <a href="https://www.redhat.com/en/ansible" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/></a>
+</p>
+
+#### ▸ Monitoring & Observability
+<p align="left">
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/></a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
+</p>
+
+#### ▸ OS & Design
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kalilinux/white" alt="kali" width="45" height="45"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 ⌬ Featured Projects
+
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF41&center=true&width=280&lines=🛡️+CyberShield" width="280"/><br/>Advanced Penetration Testing Framework</td>
+    <td align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00BFFF&center=true&width=280&lines=📡+IoT+Sentinel" width="280"/><br/>Security-enhanced IoT Monitoring</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FF0080&center=true&width=280&lines=💀+ThreatMatrix" width="280"/><br/>AI-driven Threat Detection Platform</td>
+    <td align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFD700&center=true&width=280&lines=🕷️+EchoFi+SpiderBot" width="280"/><br/>Network Reconnaissance Tool</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FF4500&center=true&width=280&lines=🐚+Trios+Shell" width="280"/><br/>Custom Command-line Shell Environment</td>
+  </tr>
+</table>
+</div>
+
+---
+<div align="center">
+
+### 📊 ⌬ System Diagnostics
+
+<img src="https://github-readme-stats.vercel.app/api?username=369emon&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=369emon&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=369emon&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=369emon&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=00FF41&line=0080FF&point=FF0080" width="50%"/>
+
+<!-- ═══════════ SNAKE CONTRIBUTION ANIMATION ═══════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 ⌬ Transmission Channel
+
+<a href="https://github.com/369emon" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0080FF&height=120&section=footer&text=「%20Stay%20Vigilant%20」&fontSize=22&fontColor=fff&animation=twinkling"/>
+
+<img src="https://komarev.com/ghpvc/?username=369emon&label=👁️%20Profile%20Views&color=00FF41&style=for-the-badge" alt="views"/>
+
 </div>
