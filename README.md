@@ -9,7 +9,7 @@
 </a>
 
 <!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://github.com/369emon/369emon/blob/main/assets/divider.gif" onerror="this.src='https://capsule-render.vercel.app/api?type=venom&height=3&color=gradient&customColorList=0,10,20,30'" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=gradient&customColorList=0,10,20,30" width="100%"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ```bash
 ┌──[369emon@cybersentinel]─[~/identity]
-└──╼ $ cat profile.json
+└── $ cat profile.json
 {
   "name": "369Emon",
   "role": "Consulting Deductive Analyst",
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### 🛡️ ⌬ Arsenal & Tech Stack
+### 🛡️  Arsenal & Tech Stack
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-### 🚀 ⌬ Featured Projects
+### 🚀  Featured Projects
 
 </div>
 
@@ -98,7 +98,7 @@
 ---
 <div align="center">
 
-### 📊 ⌬ System Diagnostics
+### 📊  System Diagnostics
 
 <img src="https://github-readme-stats.vercel.app/api?username=369emon&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=369emon&theme=matrix&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
@@ -106,25 +106,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=369emon&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=369emon&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=00FF41&line=0080FF&point=FF0080" width="50%"/>
 
-<!-- ═══════════ SNAKE CONTRIBUTION ANIMATION ═══════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 📡 ⌬ Transmission Channel
+### 📡  Transmission Channel
 
 <a href="https://github.com/369emon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
-<a href="mailto: ebwer369@gmail.com" target="_blank">
+<a href="mailto:your-email@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
@@ -135,6 +128,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0080FF&height=120&section=footer&text=「%20Stay%20Vigilant%20」&fontSize=22&fontColor=fff&animation=twinkling"/>
 
-<img src="https://komarev.com/ghpvc/?username=369emon&label=👁️%20Profile%20Views&color=00FF41&style=for-the-badge" alt="views"/>
+<a href="https://369emon.github.io/Emon-s_portfolio/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=369emon&label=👁️%20Profile%20Views&color=00FF41&style=for-the-badge" alt="views"/>
+</a>
 
 </div>
