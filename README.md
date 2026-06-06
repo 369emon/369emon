@@ -105,7 +105,10 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=369emon&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=369emon&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=00FF41&line=0080FF&point=FF0080" width="50%"/>
+### 🐍 Contribution Activity
 
+
+<img src="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
@@ -117,7 +120,7 @@
 <a href="https://github.com/369emon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto: ebwer369@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
