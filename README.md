@@ -105,10 +105,14 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=369emon&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=369emon&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=00FF41&line=0080FF&point=FF0080" width="50%"/>
-### 🐍 Contribution Activity
 
+</div>
 
-<img src="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+###🐍Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/369emon/369emon/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
 </div>
 
 ---
