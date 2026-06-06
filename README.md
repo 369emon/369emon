@@ -124,7 +124,7 @@
 <a href="https://github.com/369emon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto: ebwer369@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
