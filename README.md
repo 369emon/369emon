@@ -3,10 +3,15 @@
 <!-- ═══════════ ANIMATED MATRIX HEADER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00FF00,100:0080FF&height=250&section=header&text=369Emon&fontSize=90&animation=blink&fontColor=fff&fontAlignY=38&desc=Consulting%20Deductive%20Analyst&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
-<a href="https://github.com/369emon">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=100&lines=System+Online...;Initializing+Neural+Protocols...;Deductive+Analysis+Engine+Active;Recon+%26+Security+Ops+Running;Welcome+to+my+Digital+Fortress" alt="Typing SVG" />
-</a>
+<!-- ═══════════ TERMINAL STATUS ═══════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💚-System_Online-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄-Initializing_Neural_Protocols-00BFFF?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Deductive_Analysis_Engine_Active-FF0080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛡️-Recon_%26_Security_Ops_Running-FFD700?style=for-the-badge" />
+</p>
 
 <!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=gradient&customColorList=0,10,20,30" width="100%"/>
