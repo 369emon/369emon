@@ -3,10 +3,12 @@
 <!-- ═══════════ ANIMATED MATRIX HEADER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00FF00,100:0080FF&height=250&section=header&text=369Emon&fontSize=90&animation=blink&fontColor=fff&fontAlignY=38&desc=Consulting%20Deductive%20Analyst&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- ═══════════ TERMINAL STATUS ═══════════ -->
+<!-- ═══════════ STATUS BADGES ═══════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💚-System_Online-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔄-Initializing_Neural_Protocols-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔒-System_Online-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Neural_Protocols_Initialized-00BFFF?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡-Analysis_Engine_Active-FF0080?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=000000" />
+</p>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Deductive_Analysis_Engine_Active-FF0080?style=for-the-badge" />
