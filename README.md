@@ -3,12 +3,10 @@
 <!-- ═══════════ ANIMATED MATRIX HEADER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00FF00,100:0080FF&height=250&section=header&text=369Emon&fontSize=90&animation=blink&fontColor=fff&fontAlignY=38&desc=Consulting%20Deductive%20Analyst&descAlignY=62&descSize=20" width="100%"/>
 
-<!-- ═══════════ STATUS BADGES ═══════════ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔒-System_Online-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/-Neural_Protocols_Initialized-00BFFF?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⚡-Analysis_Engine_Active-FF0080?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=000000" />
-</p>
+<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+<a href="https://github.com/369emon">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=100&lines=System+Online...;Initializing+Neural+Protocols...;Deductive+Analysis+Engine+Active;Recon+%26+Security+Ops+Running;Welcome+to+my+Digital+Fortress" alt="Typing SVG" />
+</a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Deductive_Analysis_Engine_Active-FF0080?style=for-the-badge" />
