@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- ═══════════ ANIMATED MATRIX HEADER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00FF00,100:0080FF&height=250&section=header&text=369Emon&fontSize=90&animation=blink&fontColor=fff&fontAlignY=38&desc=Consulting%20Deductive%20Analyst&descAlignY=62&descSize=20" width="100%"/>
+<!-- ═══════════ ANIMATED HEADER ═══════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=369Emon" alt="369Emon" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Consulting+Deductive+Analyst" alt="Subtitle" />
+</p>
 
 <!-- ═══════════ TYPING ANIMATION ═══════════ -->
 <a href="https://github.com/369emon">
